@@ -20,3 +20,14 @@ I'm 37 years old. I work as a IT-Specialist.
 + **HTML/CSS**
 
 ***
+
+###Education
+
+Volgograd State Technical University (2007). CAD 
+
+---
+
+###Languages
+
+#####Russian - native speaker
+#####English - beginner
