@@ -27,6 +27,17 @@ I'm 37 years old. I work as a IT-Specialist.
 
 ***
 
+### Code example
+
+```
+function multiply(a, b){
+  a * b
+}
+console.log(multiply(2, 2))
+```
+
+***
+
 ### Education
 
 Volgograd State Technical University (2007). CAD 
