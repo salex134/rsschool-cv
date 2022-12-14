@@ -1,3 +1,48 @@
-*.block {
-    
+/* * {
+  box-sizing: border-box;
+} */
+
+body {
+  background-color:aliceblue;
+}
+
+.avatar {
+  width: 200px;
+}
+
+.header {
+  border: 1px solid red;
+}
+
+.main {
+  border: 1px solid red;
+}
+
+.footer {
+  border: 1px solid red;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+/*   align-items: center; */
+  list-style: none;
+  height: 25px;
+}
+
+.nav-item {
+  float: left;
+}
+
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 20px;
+}
+
+.logors {
+  width: 100px;
 }
