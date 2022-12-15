@@ -1,13 +1,10 @@
-/* * {
-  box-sizing: border-box;
-} */
-
 body {
   background-color:aliceblue;
 }
 
 .avatar {
   width: 200px;
+  border-radius: 50px;
 }
 
 .header {
@@ -23,18 +20,17 @@ body {
 }
 
 .container {
+  display: flex;
+  justify-content: space-around ;
+  align-items: center;
   max-width: 1440px;
   margin: 0 auto;
 }
 
 .nav-list {
-/*   align-items: center; */
+  display: flex;
+  justify-content: center;
   list-style: none;
-  height: 25px;
-}
-
-.nav-item {
-  float: left;
 }
 
 
@@ -46,3 +42,7 @@ body {
 .logors {
   width: 100px;
 }
+
+/* .footer-span {
+  margin: 0 150px;
+} */
